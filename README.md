@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @arimessinger
+- 👀 I’m interested in stuff
+- 🌱 I’m currently learning java, js, html, css, python, unity & c#
+- 📫 How to reach me: amessinger@student.leffellschool.org
+- 😄 Pronouns: he/him
